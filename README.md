@@ -16,3 +16,5 @@ CREATE DATABASE "LIVE MUSIC EXPERIENCE";
 
 #3. Run the queries found on the Live Music Experience - Queries.sql file.
 
+#4. Run the new database utilities found on the Live Music Experience - Database Utilities.sql file.
+
